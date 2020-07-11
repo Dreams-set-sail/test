@@ -1,5 +1,0 @@
-indent：缩进
-column：纵列
-cursor：游标
-tuple：元组
-gender：性别
