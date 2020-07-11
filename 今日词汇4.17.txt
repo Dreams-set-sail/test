@@ -1,0 +1,5 @@
+
+asynchronous：异步的
+authority：权威
+parameter：参数
+batch:一批
